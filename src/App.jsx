@@ -232,10 +232,6 @@ export default function PortfolioMeryem() {
                     <div className="flex flex-col md:flex-row md:items-center md:justify-between gap-4">
                       <div>
                         <h4 className="font-medium text-lg">{item}</h4>
-                        <p className="text-sm text-gray-500 mt-1">
-                          Ajouter ici une preuve : PDF, capture d’écran,
-                          documentation, projet...
-                        </p>
                       </div>
 
                       <button className="bg-[#f4edf2] text-[#8b5e83] px-5 py-2 rounded-xl hover:bg-[#8b5e83] hover:text-white transition w-fit">
