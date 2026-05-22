@@ -12,7 +12,18 @@ export default function PortfolioMeryem() {
     {
       categorie: "Gérer le patrimoine informatique",
       items: [
-        "Recenser et identifier les ressources numériques",
+     {
+       texte: "Recenser et identifier les ressources numériques",
+       preuves: [
+        {
+      titre: "Inventaire matériel",
+      lien: "/preuves/ad portfolio_Comp1.docx"   },
+    {
+      titre: "Schéma réseau",
+      lien: "/preuves/competence1/schema-reseau.pdf"
+    }
+  ]
+},
         "Exploiter des référentiels, normes et standards adoptés par le prestataire informatique",
         "Mettre en place et vérifier les niveaux d’habilitation associés à un service",
         "Vérifier les conditions de la continuité d’un service informatique",
