@@ -17,7 +17,7 @@ export default function PortfolioMeryem() {
        preuves: [
         {
       titre: "Inventaire matériel",
-      lien: "/preuves/ad portfolio_Comp1.docx"   },
+      lien: "/preuves/ad_portfolio_Comp1.docx"   },
     {
       titre: "Schéma réseau",
       lien: "/preuves/competence1/schema-reseau.pdf"
